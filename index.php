@@ -10,4 +10,6 @@ echo "thanks and have a great day .....";
 
 echo "good luck .....";
 
+echo "all the best !!!!"
+
 ?>
